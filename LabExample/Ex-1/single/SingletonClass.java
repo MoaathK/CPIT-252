@@ -1,3 +1,5 @@
+package Ex.single;
+
 public class SingletonClass {
     private static SingletonClass sSoleInstance;
     private SingletonClass(){}

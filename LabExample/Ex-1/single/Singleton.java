@@ -1,3 +1,4 @@
+package Ex.single;
 public class Singleton {
     public static void main(String[] args) {
         SingletonClass instance1 = SingletonClass.getInstance();
