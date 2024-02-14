@@ -1,11 +1,12 @@
 package bridgepatterndemo;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class BridgePatternDemo {
 static int choice;
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         Switch obj1 =  new Fan();
         Switch obj2 = new Bulb();
 
