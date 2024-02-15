@@ -3,12 +3,12 @@ package shape;
 public class Rectangle extends Shape{
     public Rectangle()
     {
-        type = "Rectangle";
+        type = "shapecompositedemo.shapecompositedemo.Rectangle";
     }
 
     public void draw()
     {
-        System.out.println("Inside Rectangle::draw()method.");
+        System.out.println("Inside shapecompositedemo.shapecompositedemo.Rectangle::draw()method.");
 
     }
 }

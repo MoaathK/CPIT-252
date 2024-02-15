@@ -3,11 +3,11 @@ package shape;
 public class Circle extends Shape{
     public Circle()
     {
-        type = "Circle";
+        type = "shapecompositedemo.shapecompositedemo.Circle";
     }
 
     public void draw()
     {
-        System.out.println("Inside Circle::draw()method.");
+        System.out.println("Inside shapecompositedemo.shapecompositedemo.Circle::draw()method.");
     }
 }
