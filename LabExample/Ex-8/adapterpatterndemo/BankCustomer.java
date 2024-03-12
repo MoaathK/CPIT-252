@@ -9,14 +9,12 @@ public class BankCustomer extends BankDetails implements CreditCard{
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-            System.out.print("Enter the account holder name : ");
+            System.out.print("Enter the account holder name: ");
             String customerName = br.readLine();
-            System.out.print("\n");
-            System.out.print("Enter the account number");
+            System.out.print("Enter the account number: ");
             long accNo = Long.parseLong(br.readLine());
-            System.out.print("\n");
 
-            System.out.print("Enter the bank name :");
+            System.out.print("Enter the bank name: ");
             String bankName = br.readLine();
             setAccHolderName(customerName);
             setAccNumber(accNo);
