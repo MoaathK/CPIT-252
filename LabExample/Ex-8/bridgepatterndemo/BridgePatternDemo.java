@@ -29,6 +29,9 @@ static int choice;
                     obj2.switchOff();
                 }
                 break;
+                case 3:{
+                    break;
+                }
                 default:{
                     System.out.println("Nothing You Select");
                 }
