@@ -47,7 +47,7 @@ public class OrderBuilder {
             }
             case 2: {
                 System.out.println("You ordered Non-Veg Pizza ");
-                System.out.println("");
+                System.out.println();
 
                 System.out.println("Enter the Size of Non-Veg-Pizza");
                 System.out.println("----------------------------");
