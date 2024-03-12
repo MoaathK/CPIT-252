@@ -41,6 +41,9 @@ public class DecoratorPatternCustomer {
 
                 }
                 break;
+                case 4: {
+                    break;
+                }
                 default:
                 {
                     System.out.println("Other than these no food available");
