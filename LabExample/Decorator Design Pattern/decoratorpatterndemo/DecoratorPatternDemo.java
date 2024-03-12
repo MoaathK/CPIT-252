@@ -41,6 +41,10 @@ public class DecoratorPatternDemo {
                     System.out.println(f2.progPrice());
                 }
                 break;
+                case 4:
+                {
+                    break;
+                }
                 default:
                 {
                     System.out.println("Other than these no program available");
