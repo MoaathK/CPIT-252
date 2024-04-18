@@ -1,8 +1,10 @@
-package Ex.single;
+package single;
 
 public class SingletonClass {
     private static SingletonClass sSoleInstance;
-    private SingletonClass(){}
+    private SingletonClass(){
+
+    }
     public static SingletonClass getInstance(){
         if (sSoleInstance == null) {
             sSoleInstance = new SingletonClass();
