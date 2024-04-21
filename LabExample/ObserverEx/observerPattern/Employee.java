@@ -22,4 +22,22 @@ public class Employee {
     public int getSalary() {
         return salary;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setSalary(int salary) {
+        this.salary = salary;
+        notifyAllObservers();
+    }
+    public void notifyAllObservers(){
+        for (Observer observer : observers ){
+            observer.sendMessage();
+        }
+
+    }
+    public void adObserver(Observer observer){
+        observers.add(observer);
+    }
 }
