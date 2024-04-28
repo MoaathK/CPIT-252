@@ -13,11 +13,11 @@ public class CancelledState implements OrderState{
 
     @Override
     public void deliverOrder(OrderContext context) {
-
+        System.out.println("Order has been cancelled, cannot deliver. ");
     }
 
     @Override
     public void cancelOrder(OrderContext context) {
-
+        System.out.println("Order is already cancelled. ");
     }
 }

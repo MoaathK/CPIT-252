@@ -18,6 +18,7 @@
       <sourceFolder url="file://$MODULE_DIR$/MementoEx" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ObserverEx" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StateEx" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StrategyPattern" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

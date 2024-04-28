@@ -3,7 +3,7 @@ package StatePattern3;
 public class OrderContext {
     private OrderState state;
 
-    public OrderContext(OrderState state) {
+    public OrderContext() {
         state = new ProcessingState();
     }
     public void setState(OrderState state) {
