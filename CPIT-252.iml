@@ -6,7 +6,18 @@
       <sourceFolder url="file://$MODULE_DIR$/LabExample/Ex-1" isTestSource="false" packagePrefix="Ex" />
       <sourceFolder url="file://$MODULE_DIR$/LabExample/Ex-2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LabExample/Ex-3" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/MVCExample/Example1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/Ex-5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/Ex-6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/Ex-7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/Ex-8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/Facde" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/MementoEx" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/ObserverEx" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/StateEx" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/StrategyPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/shapecompositedemo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MVCExample" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

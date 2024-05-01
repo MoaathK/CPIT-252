@@ -1,3 +1,5 @@
+package Example2;
+
 public class EmployeeView {
 
     public void printEmployeeDetails(String EmployeeName,String EmployeeId,String EmployeeDepartment){
