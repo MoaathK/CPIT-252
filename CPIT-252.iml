@@ -18,6 +18,12 @@
       <sourceFolder url="file://$MODULE_DIR$/LabExample/out" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LabExample/shapecompositedemo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MVCExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/CompositeDesignPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/Decorator Design Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/Ex-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/MVCExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/Registration" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/VisitorPattern" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
