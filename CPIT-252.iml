@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LabExample/Iterator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LabExample/Registration" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LabExample/VisitorPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LabExample/FlyweightPattern" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
