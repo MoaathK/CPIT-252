@@ -2,7 +2,7 @@ package facdePatternDemo;
 
 
 
-public class ShapeMaker {
+public class ShapeMaker {// Facade Class
     private Shape circle;
     private Shape rectangle;
     private Shape square;

@@ -1,6 +1,6 @@
 package facadepatternclient;
 
-public class PLanKeeper {
+public class PLanKeeper { // Facade Class
     private PlanType domesticPLan;
     private PlanType commercialPLan;
     private PlanType institutionalPlan;
