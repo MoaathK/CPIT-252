@@ -1,3 +1,5 @@
+package Example1;
+
 public class BookView {
     public void printBookDetails(String title, String author, double price) {
         System.out.println("Book: ");
