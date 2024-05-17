@@ -1,3 +1,5 @@
+package Example1;
+
 public class MavenProjectMVCDemo {
     public static void main(String[] args) {
         Bookm book = new Bookm("Effective Java","Joshua Bloch",39.99);

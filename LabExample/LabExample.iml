@@ -19,6 +19,13 @@
       <sourceFolder url="file://$MODULE_DIR$/ObserverEx" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StateEx" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StrategyPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChainOfResponsibility" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CommandPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FlyweightPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Iterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MVCExample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Registration" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/VisitorPattern" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

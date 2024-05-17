@@ -9,10 +9,10 @@ public class FacadePatternDemo1 {
     public static void main(String[] args) throws IOException {
         do {
             System.out.println("========= PLan Type===========");
-            System.out.println("           1.Domestic Plan       ");
-            System.out.println("           2.Commercial Plan       ");
-            System.out.println("           3.Institutional Plan       ");
-            System.out.println("           4.Exit           ");
+            System.out.println(" 1.Domestic Plan       ");
+            System.out.println(" 2.Commercial Plan       ");
+            System.out.println(" 3.Institutional Plan       ");
+            System.out.println(" 4.Exit           ");
             System.out.print("Enter Your choice:  ");
             BufferedReader br =new BufferedReader(new InputStreamReader(System.in));
             choice = Integer.parseInt(br.readLine());
