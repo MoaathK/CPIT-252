@@ -8,9 +8,8 @@ public class IteratorPatternDemo {
         courseCollection.addCourse(new Course("Operating Systems", "CS301"));
 
         System.out.println("Available courses:");
-        for (CourseCollection it = courseCollection; it.hasNext(); ) {
-            Course course = it.next();
-            System.out.println(course);
-        }
+       for (Course course : courseCollection) {
+           System.out.println(course);
+       }
     }
 }
